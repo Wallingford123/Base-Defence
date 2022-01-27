@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8090cce1b071841ab0a8572238d305, type: 3}
+  m_Name: L25W1
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
+  - {fileID: 7076534592876560529, guid: 4dd0ba8da419185429f6f14396834f53, type: 3}
